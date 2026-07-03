@@ -279,31 +279,7 @@ This coordinated valve-pump-rod strategy is used to study the interaction among 
 
 5. The `.slx` file requires Simulink, Simscape, and Simscape Fluids.
 
----
 
-## Citation
-
-If you use this repository, please cite the associated paper:
-
-```text
-Mahboub Rad, A., Jacob, R. A., Poudel, B., Mamtimin, M., and Zhang, J.
-Integrated physics-based modeling reveals a thermodynamic gap in small modular reactor load following.
-Manuscript, 2026.
-```
-
-A formal citation and DOI will be added when available.
-
----
-
-## License
-
-Please see the `LICENSE` file for terms of use.
-
----
-
-## Acknowledgments
-
-This work was supported by the U.S. Department of Energy under Award DE-NE0009296.
 
 ---
 
