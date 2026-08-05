@@ -1,2 +1,5 @@
-# SMR Emulator Design
-Working directory for the 2027 paper on the design of an SMR emulator. 
+# Paper-Design-of-a-Cyber-Physical-SMR-Emulator
+
+This is the companion repository for the ASME journal paper, *Design and Experimental Validation of a Cyber-Physical SMR Emulator for Digital Twin-Based Control via Time-Constant Synchronization*.
+
+This repository contains the models, code, and paper-specific artifacts associated with the manuscript. For the physical thermal-loop testbed and related hardware resources, see the companion repository: [thermal-loop](https://github.com/ARTS-Laboratory/thermal-loop).
