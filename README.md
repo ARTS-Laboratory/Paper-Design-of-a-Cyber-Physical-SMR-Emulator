@@ -2,4 +2,4 @@
 
 This is the companion repository for the ASME journal paper, *Design and Experimental Validation of a Cyber-Physical SMR Emulator for Digital Twin-Based Control via Time-Constant Synchronization*.
 
-This repository contains the models, code, and paper-specific artifacts associated with the manuscript. For the physical thermal-loop testbed and related hardware resources, see the companion repository: [thermal-loop](https://github.com/ARTS-Laboratory/thermal-loop).
+This repository contains the models, code, and paper-specific artifacts associated with the manuscript. For the physical thermal-loop testbed and related hardware resources, see the companion repository: [CORE²S](https://github.com/ARTS-Laboratory/core2s).
