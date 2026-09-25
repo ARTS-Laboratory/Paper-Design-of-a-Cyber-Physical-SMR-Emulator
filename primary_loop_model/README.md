@@ -1,4 +1,4 @@
-# primary_loop_model
+# Primary Loop Model
 
 **Version 1 of the loop**
 
