@@ -1,4 +1,4 @@
-# secondary_loop_model
+# Secondary Loop Model
 
 **Version 1 of the loop**
 
